@@ -80,8 +80,8 @@ After all, most people learning AI art just want to use it to enhance their crea
 
 | 首帧图像生成视频 | 首尾帧生成视频 | 3D首尾帧生成 |
 |:---:|:---:|:---:|
-| <video src='./media_zh/video/fig10_动画.mp4' width="90%" controls></video> | <video src='./media_zh/video/fig11_首尾帧.mp4' width="90%" controls></video> | <video src='./media_zh/video/fig12_3D首尾帧.mp4' width="90%" controls></video> |
-| Generate short videos using first-frame images and prompts |Generate short videos using first frames + last frames + prompts | 3D model video generation |
+| <video src='https://github.com/user-attachments/assets/76e412e9-c330-4b24-867b-29024f0b07da' width="90%" controls></video> | <video src='https://github.com/user-attachments/assets/739e9db0-f443-46a3-8599-554d433dbcbf' width="90%" controls></video> | <video src='https://github.com/user-attachments/assets/87458ab6-1d04-4975-883b-8a8a1f782290' width="90%" controls></video> |
+| Generate short videos using first-frame images and prompts |Generate short videos using first frames + last frames + prompts | Generate short videos using first frames + last frames + prompts  |
 
 </div>
 
@@ -727,7 +727,7 @@ Later, the team retrained it using the **Wan model** and Bilibili's vast reposit
 
 <div align="center" style="margin: 2rem 0;">
 
-<video src='.\media_zh\video\BiliBili.mp4' 
+<video src='https://github.com/user-attachments/assets/06743d3e-4a46-4185-954f-3bc9be80421e' 
        controls 
        style="
            border-radius: 8px;
@@ -746,9 +746,9 @@ Trained by Japan's **hakoniwa** based on **Wan2.1**, AniWan2.1 is a model specia
 
 | Video 1 | Video 2 |
 |:---:|:---:|
-| <video src='.\media_zh\video\show_23.mp4' controls style="border-radius: 8px; max-width: 95%; box-shadow: 0 4px 12px rgba(0,0,0,0.15); background: #000;"></video> | <video src='.\media_zh\video\show_20.mp4' controls style="border-radius: 8px; max-width: 95%; box-shadow: 0 4px 12px rgba(0,0,0,0.15); background: #000;"></video> |
+| <video src='https://github.com/user-attachments/assets/cfafa952-840a-4529-ad0e-0d715bb12587' controls style="border-radius: 8px; max-width: 95%; box-shadow: 0 4px 12px rgba(0,0,0,0.15); background: #000;"></video> | <video src='https://github.com/user-attachments/assets/d44bf816-bf6c-4f3b-971c-1cc53a37654f' controls style="border-radius: 8px; max-width: 95%; box-shadow: 0 4px 12px rgba(0,0,0,0.15); background: #000;"></video> |
 | **Video 3** | **Video 4** |
-| <video src='.\media_zh\video\show_21.mp4' controls style="border-radius: 8px; max-width: 95%; box-shadow: 0 4px 12px rgba(0,0,0,0.15); background: #000;"></video> | <video src='.\media_zh\video\show_22.mp4' controls style="border-radius: 8px; max-width: 95%; box-shadow: 0 4px 12px rgba(0,0,0,0.15); background: #000;"></video> |
+| <video src='https://github.com/user-attachments/assets/e984b9f4-b7f3-48e9-b232-ae12d0100b87' controls style="border-radius: 8px; max-width: 95%; box-shadow: 0 4px 12px rgba(0,0,0,0.15); background: #000;"></video> | <video src='https://github.com/user-attachments/assets/e4b4cc8d-2ec2-487c-9bf2-433f243c5b6e' controls style="border-radius: 8px; max-width: 95%; box-shadow: 0 4px 12px rgba(0,0,0,0.15); background: #000;"></video> |
 
 </div>
 
