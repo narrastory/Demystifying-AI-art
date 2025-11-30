@@ -1,6 +1,8 @@
 # Everything You Need to Know About AI-Generated Art
 
-> `2025.08` · **Ming** · ![GitHub](https://img.shields.io/badge/AI-Art-blueviolet) ![GitHub](https://img.shields.io/badge/Updated-2025.08-green)
+![GitHub](https://img.shields.io/badge/AI-Art-blueviolet) ![GitHub](https://img.shields.io/badge/Updated-2025.08-green) ![WeChat](https://img.shields.io/badge/微信公众号-已发布-brightgreen?logo=wechat) ![Zhihu](https://img.shields.io/badge/知乎-已发布-blue?logo=zhihu)
+
+> **Author**: Ming
 
 ---
 
@@ -11,20 +13,11 @@
 
   <div>
     <img src="https://img.shields.io/badge/English-Document-blue?style=for-the-badge" alt="English">
-    <span style="margin: 0 10px;">|</span>
+    <span style="margin: 0 10px;"></span>
     <a href="README_ZH.md">
       <img src="https://img.shields.io/badge/中文-文档-red?style=for-the-badge" alt="中文">
     </a>
   </div>
-</div>
-
-<div align="center">
-
-| Platform | Status | Description |
-|:--------:|:------:|:------------|
-| ![WeChat](https://img.shields.io/badge/微信公众号-已发布-brightgreen?logo=wechat) | ✅ Live | Complete tutorial |
-| ![Zhihu](https://img.shields.io/badge/知乎-已发布-blue?logo=zhihu) | ✅ Live | Detailed guide |
-
 </div>
 
 ---
@@ -87,7 +80,7 @@ After all, most people learning AI art just want to use it to enhance their crea
 
 | 首帧图像生成视频 | 首尾帧生成视频 | 3D首尾帧生成 |
 |:---:|:---:|:---:|
-| <video src='./media_zh/video/fig10_动画.mp4' width="90%" controls poster="./media_en/images/fig1_3D渲染.jpg"></video> | <video src='./media_zh/video/fig11_首尾帧.mp4' width="90%" controls poster="./media_en/images/fig2_概念稿快速成图.jpg"></video> | <video src='./media_zh/video/fig12_3D首尾帧.mp4' width="90%" controls poster="./media_en/images/fig5_产品图360.jpg"></video> |
+| <video src='./media_zh/video/fig10_动画.mp4' width="90%" controls></video> | <video src='./media_zh/video/fig11_首尾帧.mp4' width="90%" controls></video> | <video src='./media_zh/video/fig12_3D首尾帧.mp4' width="90%" controls></video> |
 | Generate short videos using first-frame images and prompts |Generate short videos using first frames + last frames + prompts | 3D model video generation |
 
 </div>
