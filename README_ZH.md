@@ -1,20 +1,11 @@
 # 关于AI绘画，你想知道的都在这里
 
-> `2025.08` · **Ming** · ![GitHub](https://img.shields.io/badge/AI-Art-blueviolet) ![GitHub](https://img.shields.io/badge/Updated-2025.08-green)
-
+ ![GitHub](https://img.shields.io/badge/AI-Art-blueviolet) ![GitHub](https://img.shields.io/badge/Updated-2025.08-green) ![WeChat](https://img.shields.io/badge/微信公众号-已发布-brightgreen?logo=wechat) ![Zhihu](https://img.shields.io/badge/知乎-已发布-blue?logo=zhihu)
+> Ming
 ---
 
 <div align="center">
   <img src="./media_en/index_en.jpg" alt="AI Generated Art" width="90%" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);"/>
-</div>
-
-<div align="center">
-
-| Platform | Status | Description |
-|:--------:|:------:|:------------|
-| ![WeChat](https://img.shields.io/badge/微信公众号-已发布-brightgreen?logo=wechat) | ✅ Live | Complete tutorial |
-| ![Zhihu](https://img.shields.io/badge/知乎-已发布-blue?logo=zhihu) | ✅ Live | Detailed guide |
-
 </div>
 
 ---
@@ -70,7 +61,7 @@
 
 | 首帧动画 | 首尾帧过渡 | 首尾帧过渡 |
 |:---:|:---:|:---:|
-| <video src='./media_zh/video/fig10_动画.mp4' width="90%" controls></video> | <video src='./media_zh/video/fig11_首尾帧.mp4' width="90%" controls></video> | <video src='./media_zh/video/fig12_3D首尾帧.mp4' width="90%" controls></video> |
+| <video src='https://github.com/user-attachments/assets/76e412e9-c330-4b24-867b-29024f0b07da' width="90%" controls></video> | <video src='https://github.com/user-attachments/assets/739e9db0-f443-46a3-8599-554d433dbcbf' width="90%" controls></video> | <video src='https://github.com/user-attachments/assets/87458ab6-1d04-4975-883b-8a8a1f782290' width="90%" controls></video> |
 
 
 
@@ -371,7 +362,7 @@ Stable Diffusion核心团队离职后，他们迅速创立了Black Forest Labs�
 如果你曾关注过AI动漫视频方面的内容，可能听说过Bilibili自研的Index-anisora动漫视频模型，这是一款专门针对动漫类的视频生成模型，可以实现首尾帧动画，动态漫画，图生视频，骨骼动画等诸多内容，但是其第一版的效果并不是很好，也没在社区引起多大的反响，后来团队基于Wan模型、结合B站庞大的二次元数据进行训练，推出的v3.1版本效果提升显著，明显好于初版的，但它对我们普通玩家有一个致命的缺点，就是要极高的电脑配置，5090来了都运行不了这个动画模型，除非是超大显存的专业计算卡。
 
 <div align="center" style="margin: 2rem 0;">
-<video src='.\media_zh\video\BiliBili.mp4' 
+<video src='https://github.com/user-attachments/assets/06743d3e-4a46-4185-954f-3bc9be80421e' 
        controls 
        style="
            border-radius: 8px;
@@ -388,9 +379,9 @@ Stable Diffusion核心团队离职后，他们迅速创立了Black Forest Labs�
 
 | Video 1 | Video 2 |
 |:---:|:---:|
-| <video src='.\media_zh\video\show_23.mp4' controls style="border-radius: 8px; max-width: 95%; box-shadow: 0 4px 12px rgba(0,0,0,0.15); background: #000;"></video> | <video src='.\media_zh\video\show_20.mp4' controls style="border-radius: 8px; max-width: 95%; box-shadow: 0 4px 12px rgba(0,0,0,0.15); background: #000;"></video> |
+| <video src='https://github.com/user-attachments/assets/cfafa952-840a-4529-ad0e-0d715bb12587' controls style="border-radius: 8px; max-width: 95%; box-shadow: 0 4px 12px rgba(0,0,0,0.15); background: #000;"></video> | <video src='https://github.com/user-attachments/assets/d44bf816-bf6c-4f3b-971c-1cc53a37654f' controls style="border-radius: 8px; max-width: 95%; box-shadow: 0 4px 12px rgba(0,0,0,0.15); background: #000;"></video> |
 | **Video 3** | **Video 4** |
-| <video src='.\media_zh\video\show_21.mp4' controls style="border-radius: 8px; max-width: 95%; box-shadow: 0 4px 12px rgba(0,0,0,0.15); background: #000;"></video> | <video src='.\media_zh\video\show_22.mp4' controls style="border-radius: 8px; max-width: 95%; box-shadow: 0 4px 12px rgba(0,0,0,0.15); background: #000;"></video> |
+| <video src='https://github.com/user-attachments/assets/e984b9f4-b7f3-48e9-b232-ae12d0100b87' controls style="border-radius: 8px; max-width: 95%; box-shadow: 0 4px 12px rgba(0,0,0,0.15); background: #000;"></video> | <video src='https://github.com/user-attachments/assets/e4b4cc8d-2ec2-487c-9bf2-433f243c5b6e' controls style="border-radius: 8px; max-width: 95%; box-shadow: 0 4px 12px rgba(0,0,0,0.15); background: #000;"></video> |
 
 </div>
 
