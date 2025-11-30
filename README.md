@@ -290,7 +290,7 @@ LoRA is incredibly versatile. Almost any specific object or style you can imagin
          max-width: 85%;
      ">
 </div>
-**Beyond the SD1.5 series, other excellent foundational models existed**, such as Midjourney's models and OpenAI's DALL-E 3. While these often produced better-looking images than SD1.5 at the time, SD1.5 had a unique advantage that won over developers and creators: **openness**.
+Beyond the SD1.5 series, other excellent foundational models existed, such as Midjourney's models and OpenAI's DALL-E 3. While these often produced better-looking images than SD1.5 at the time, SD1.5 had a unique advantage that won over developers and creators: openness.
 
 Models like Midjourney were powerful but **closed-source commercial products**. Users could only access them through official, paid channels, with no room for community modification or development. In contrast, **SD1.5 was fully open-source**, fueling global collaboration and innovation.
 
